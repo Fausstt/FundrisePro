@@ -1,0 +1,28 @@
+.PostRequsest {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+.formPagen {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    width: 380px;
+}
+.formPagen__inp {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    /* background: #ffffffa4; */
+}
+.formPagen__button {
+    display: flex;
+    justify-content: center;
+}
+.inp {
+    width: 380px;
+    padding: 14px 16px;
+    border: 1px solid #d0cfcf;
+    border-radius: 4px;
+}
